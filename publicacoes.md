@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publicações e Projetos
+permalink: /publicacoes/
 ---
 
 # 📚 Publicações e Projetos
