@@ -1,7 +1,13 @@
 ---
 layout: default
 title: Mentorias e Café com Dados
+permalink: /mentorias/
 ---
+
+# 🌱 Mentorias
+
+Conteúdo da página aqui.
+
 
 # ☕ Mentorias e Café com Dados
 
